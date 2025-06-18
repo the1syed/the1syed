@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Banner" />
+</p>
+
+
 # 💫 About Me:
 👋 Hi, I'm a Java enthusiast and MCA student at Amity University, Noida.<br>☕ I specialize in Core Java, Object-Oriented Programming, and Multithreading, with a strong grasp of DSA.<br>💼 I’ve built Java-based projects like Online Examination Systems and console-based applications, and I’m constantly refining my skills to write clean, efficient, and scalable code.<br>📚 Currently diving deeper into JavaScript and Node for innovative applications.<br>🔍 Actively preparing for software development roles <br><br>Let’s build something amazing with Java! 💻
 
